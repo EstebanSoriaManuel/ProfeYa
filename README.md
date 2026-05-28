@@ -28,6 +28,13 @@ Integrante 1
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f6ee66a3-d018-4a6e-ad5d-688e2a720701" />
 
 Integrante 2
-<!-- Agregar capturas de: rama landing-mejoras, carrusel funcionando en el navegador, commit y push -->
+En esta etapa se le agregaron mejoras al archivo "Index" para mejorar el formato y diseño del mismo.
+<img width="540" height="146" alt="repo_clonado" src="https://github.com/user-attachments/assets/44a509a8-8b8a-400f-9644-f9df18d6e63c" />
+<img width="444" height="130" alt="cap_rama" src="https://github.com/user-attachments/assets/21258fa1-f8da-4b25-93ef-9099b49782bc" />
+<img width="487" height="134" alt="cap_cambiolanding" src="https://github.com/user-attachments/assets/a5afdfb1-b799-44e4-a8d0-
+8586ec05c3b2" />
+<img width="478" height="75" alt="Cap_commit" src="https://github.com/user-attachments/assets/c263823e-4069-43dc-b350-4e29f9a85e79" />
+<img width="556" height="259" alt="Cap_push" src="https://github.com/user-attachments/assets/c03e9229-d3af-4430-8211-e05fe6d828b5" />
+
 Integrante 3
 <!-- Agregar capturas de: rama buscar-profesores, página de búsqueda funcionando, commit y push -->
