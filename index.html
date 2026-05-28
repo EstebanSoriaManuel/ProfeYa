@@ -73,6 +73,22 @@ footer {
   text-align: center;
   padding: 20px;
 }
+.carrusel {
+
+  width: 40%;
+
+}
+
+.carrusel img {
+
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20px;
+  transition: 1s;
+
+}
+
 
 </style>
 
@@ -109,15 +125,55 @@ Clases virtuales y presenciales para todas las materias.
 
 </div>
 
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f">
+<div class="carrusel">
 
-</section>
+<img
+id="imagen-carrusel"
+src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+alt="Carrusel ProfeYa">
+
+</div>
+
+
 
 <footer>
 
 <p>© 2026 ProfeYa - Marketplace educativo</p>
 
 </footer>
+<script>
+
+const imagenes = [
+
+'https://images.unsplash.com/photo-1522202176988-66273c2fd55f',
+
+'https://images.unsplash.com/photo-1516321318423-f06f85e504b3',
+
+'https://images.unsplash.com/photo-1509062522246-3755977927d7'
+
+];
+
+let posicion = 0;
+
+function cambiarImagen() {
+
+  posicion++;
+
+  if(posicion >= imagenes.length) {
+
+    posicion = 0;
+
+  }
+
+  document.getElementById('imagen-carrusel').src =
+  imagenes[posicion];
+
+}
+
+setInterval(cambiarImagen, 3000);
+
+</script>
+
 
 </body>
 
