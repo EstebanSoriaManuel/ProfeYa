@@ -19,9 +19,7 @@ Git & GitHub
 
 
 **Integrantes del grupo**
-Integrante 1 Soria Esteban
-Integrante 2 Carlos Luque
-Integrante 3 Facundo Pesa
+Integrante 1 Soria Esteban  -  Integrante 2 Carlos Luque  -  Integrante 3 Facundo Pesa
 
 **Capturas de pantalla**
 Integrante 1
